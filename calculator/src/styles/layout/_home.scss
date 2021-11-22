@@ -1,0 +1,10 @@
+.backdrop {
+  margin-top: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50rem;
+  background-color: black;
+  box-shadow: inset $dark-shadow, $dark-shadow;
+  border-radius: $radius;
+}
